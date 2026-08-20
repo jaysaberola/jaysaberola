@@ -2,22 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:2563EB&height=200&section=header&text=Jay%20Saberola&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Next.js%20%2B%20Laravel&descAlignY=56&descSize=18" alt="header" />
 
-<a href="https://github.com/jaysaberola">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=520&lines=Building+CMS+platforms+with+Next.js+%2B+Laravel;TypeScript+%7C+React+19+%7C+PHP+8+%7C+MySQL;Clean+architecture%2C+pragmatic+solutions" alt="typing" />
-</a>
-
-<br />
+Building CMS platforms with Next.js and Laravel.
 
 <a href="mailto:wsi.jayanthonysaberola@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <img src="https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="email" />
 </a>
 <a href="https://www.linkedin.com/in/jaysaberola">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://github.com/jaysaberola?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=jaysaberola&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=jaysaberola&style=flat-square&color=2563EB&label=views" alt="views" />
 
 </div>
 
