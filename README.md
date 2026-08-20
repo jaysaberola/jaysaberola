@@ -97,12 +97,13 @@ content assistance.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jaysaberola&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=2563EB&icon_color=2563EB" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysaberola&hide_border=true&theme=tokyonight&background=0F172A&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaysaberola&theme=tokyonight" alt="profile summary" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysaberola&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0F172A&title_color=2563EB" alt="languages" />
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=jaysaberola&hide_border=true&theme=tokyonight&background=0F172A&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="streak" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaysaberola&theme=tokyonight&utcOffset=8" alt="productive time" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=jaysaberola&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaysaberola&theme=tokyonight" alt="top languages by repo" />
+<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaysaberola&theme=tokyonight" alt="top languages by commit" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaysaberola&bg_color=0F172A&color=FFFFFF&line=2563EB&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
 
